@@ -1,0 +1,13 @@
+.input-field{
+    width: 250px;
+}
+.text-input{
+    width: 250px;
+}
+.btn-apply{
+    background-color: tomato;
+    border: tomato;
+    color: #fff;
+    padding: 3px;
+    border-radius: 5px;
+}
